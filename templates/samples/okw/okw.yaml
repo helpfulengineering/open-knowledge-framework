@@ -1,0 +1,144 @@
+name: ""
+location:
+  address:
+    number: ""
+    street: ""
+    district: ""
+    city: ""
+    region: ""
+    country: ""
+    postcode: ""
+  gps:
+    latitude: 0
+    longitude: 0
+  directions: ""
+  what_3_words: ""
+owner:
+  name: ""
+  location:
+    address:
+      number: ""
+      street: ""
+      district: ""
+      city: ""
+      region: ""
+      country: ""
+      postcode: ""
+    gps:
+      latitude: 0
+      longitude: 0
+    directions: ""
+    what_3_words: ""
+  contact_person: ""
+  contact:
+    landline: ""
+    mobile: ""
+    fax: ""
+    email: ""
+    whatsapp: ""
+  website: ""
+  social_media:
+    landline: ""
+    twitter: ""
+    instagram: ""
+    other_urls: []
+contact:
+  name: Some Person
+  location:
+    address:
+      number: ""
+      street: ""
+      district: ""
+      city: ""
+      region: ""
+      country: ""
+      postcode: ""
+    gps:
+      latitude: 0
+      longitude: 0
+    directions: ""
+    what_3_words: ""
+  contact_person: ""
+  contact:
+    landline: ""
+    mobile: ""
+    fax: ""
+    email: ""
+    whatsapp: ""
+  website: https://example.com
+  social_media:
+    landline: ""
+    twitter: ""
+    instagram: ""
+    other_urls: []
+affiliations: []
+facility_status: ""
+opening_hours: ""
+description: ""
+date_founded: ""
+access_type: ""
+wheelchair_acessibility: false
+equipment:
+  equipment_type: ""
+  manufacturing_process: ""
+  make: ""
+  model: ""
+  serial_number: ""
+  location:
+    address:
+      number: ""
+      street: ""
+      district: ""
+      city: ""
+      region: ""
+      country: ""
+      postcode: ""
+    gps:
+      latitude: 0
+      longitude: 0
+    directions: ""
+    what_3_words: ""
+  skills_required: []
+  condition: ""
+manufacturing_processes: ""
+typical_batch_size: ""
+size_floor_size: 0
+storage_capacity: ""
+typical_materials: []
+certifications: []
+backup_generator: false
+uninterrupted_power_supply: false
+road_access: false
+loading_dock: false
+maintenance_schedule: ""
+typical_products: []
+partner_funder:
+  name: ""
+  location:
+    address:
+      number: ""
+      street: ""
+      district: ""
+      city: ""
+      region: ""
+      country: ""
+      postcode: ""
+    gps:
+      latitude: 0
+      longitude: 0
+    directions: ""
+    what_3_words: ""
+  contact_person: ""
+  contact:
+    landline: ""
+    mobile: ""
+    fax: ""
+    email: ""
+    whatsapp: ""
+  website: ""
+  social_media:
+    landline: ""
+    twitter: ""
+    instagram: ""
+    other_urls: []
+customer_reviews: []

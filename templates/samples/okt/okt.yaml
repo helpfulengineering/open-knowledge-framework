@@ -1,0 +1,107 @@
+name: ""
+description: ""
+location:
+  address:
+    number: ""
+    street: ""
+    district: ""
+    city: ""
+    region: ""
+    country: ""
+    postcode: ""
+  gps:
+    latitude: 0
+    longitude: 0
+  directions: ""
+  what_3_words: ""
+owner:
+  name: ""
+  location:
+    address:
+      number: ""
+      street: ""
+      district: ""
+      city: ""
+      region: ""
+      country: ""
+      postcode: ""
+    gps:
+      latitude: 0
+      longitude: 0
+    directions: ""
+    what_3_words: ""
+  contact_person: ""
+  contact:
+    landline: ""
+    mobile: ""
+    fax: ""
+    email: ""
+    whatsapp: ""
+  website: ""
+  social_media:
+    landline: ""
+    twitter: ""
+    instagram: ""
+    other_urls: []
+contact:
+  name: Some Person
+  location:
+    address:
+      number: ""
+      street: ""
+      district: ""
+      city: ""
+      region: ""
+      country: ""
+      postcode: ""
+    gps:
+      latitude: 0
+      longitude: 0
+    directions: ""
+    what_3_words: ""
+  contact_person: ""
+  contact:
+    landline: ""
+    mobile: ""
+    fax: ""
+    email: ""
+    whatsapp: ""
+  website: https://example.com
+  social_media:
+    landline: ""
+    twitter: ""
+    instagram: ""
+    other_urls: []
+affiliations: []
+facility_status: ""
+opening_hours: ""
+vehicles: []
+services: []
+areasOfService: []
+permits: []
+date_founded: ""
+equipment:
+  equipment_type: ""
+  manufacturing_process: ""
+  make: ""
+  model: ""
+  serial_number: ""
+  location:
+    address:
+      number: ""
+      street: ""
+      district: ""
+      city: ""
+      region: ""
+      country: ""
+      postcode: ""
+    gps:
+      latitude: 0
+      longitude: 0
+    directions: ""
+    what_3_words: ""
+  skills_required: []
+  condition: ""
+typical_materials: []
+certifications: []
+customer_reviews: []
